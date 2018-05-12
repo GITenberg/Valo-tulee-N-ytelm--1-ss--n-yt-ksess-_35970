@@ -1,0 +1,27 @@
+_repo: Valo-tulee-N-ytelm--1-ss--n-yt-ksess-_35970
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ramstedt, Maria
+    alias: Humu, Martti
+    birthdate: 1852
+    deathdate: 1915
+    gutenberg_agent_id: '24781'
+    url: http://www.gutenberg.org/2009/agents/24781
+description: ''
+gutenberg_issued: '2011-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35970'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Drama'
+title: Valo tulee! Näytelmä 1:ssä näytöksessä
+url: http://www.gutenberg.org/ebooks/35970
